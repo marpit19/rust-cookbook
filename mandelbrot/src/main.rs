@@ -1,4 +1,5 @@
 use num::complex::Complex;
+mod random;
 
 fn calculate_mandelbrot(
     max_iters: usize,
